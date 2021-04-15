@@ -1,2 +1,2 @@
-# Kalkulator-Prroyek
+# Kalkulator-Proyek
 Tugas Individu Kalkulator
